@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME:AADITHIYAN R
-## REGISTER NUMBER:2122222300001
+## NAME:SNEHA HV
+## REGISTER NUMBER:212222040157
 
 ## Aim: 
 To perform a study on Socket Programming
